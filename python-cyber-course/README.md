@@ -30,7 +30,7 @@ Desenvolvimento de ferramentas profissionais e integração com frameworks de se
 
 1. **Repositório**:
    ```bash
-   git clone (https://github.com/taldoBorge/python-cyber-course/tree/master)
+   git clone (https://github.com/taldoBorge/python-cyber-course.git)
    cd python-cyber-course
 
 2. **Ambiente Virtual (Venv)**:
